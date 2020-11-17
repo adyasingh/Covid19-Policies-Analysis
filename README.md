@@ -8,7 +8,10 @@ For our analysis we will used three data sets:
 <br>* [Oxford Covid-19 Government Response Tracker](https://github.com/OxCGRT)
 <br>
 <br>
-[Jupyter notebook with python analysis and predictions](https://github.com/kwulffert/womenofmathdestruction/blob/main/womenofmathdestruction_covid_exploration_prediction.html) 
+
+
+View Final Presentation for all visualisations and analysis. 
+
 
 
 
